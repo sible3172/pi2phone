@@ -13,8 +13,8 @@ A dedicated subdomain on http://belaye.net will be created when the prototype wo
 
 
 
-Pi2Phone français
-=================
+Pi2Phone (en français)
+======================
 
 Partager votre ligne-téléphone et les forfaits qui font avec.
 

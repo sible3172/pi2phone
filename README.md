@@ -1,7 +1,7 @@
 Pi2Phone
 ========
 
-Sharing your phone-line and the associated flat rates with others.
+Share your phone-line and the associated flat rates with others.
 
 See the announcement here http://www.belaye.net/46140/pinest/abc/pi2phone-is-hot/
 

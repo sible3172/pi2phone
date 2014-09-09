@@ -24,4 +24,4 @@ Pi2Phone utilise une mini ordinateur basée sur un processeur arm à bas cout.
 
 Vous pouvez brancher votre pi2phone Sur une entrée libre de votre internet-modem. Cette manière pi2phone peut utiliser tout les possibilités que vous achetez chez votre fournisseur d'accès internet et lesquelles vous utilisez peut-être que 1% du temps.
 
-Une sous-domaine sur http://belaye.net sera créé des que le prototype fonctionne.
+Une sous-domaine sur http://belaye.net sera créé dès que le prototype fonctionne.

@@ -12,6 +12,10 @@ You can brance your pi2phone to a free phone entry of your internet-box. This wa
 A dedicated subdomain on http://belaye.net will be created when the prototype works.
 
 
+
+Pi2Phone français
+=================
+
 Partager votre ligne-téléphone et les forfaits qui font avec.
 
 L'annonce (en anglais) est ici http://www.belaye.net/46140/pinest/abc/pi2phone-is-hot/
